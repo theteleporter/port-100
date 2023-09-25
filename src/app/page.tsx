@@ -109,7 +109,7 @@ export default function Home() {
       <Image src={"/siteicons/TK.svg"} alt={"The Teleporter Logo"} width={50} height={50} className="select-none"  />
       </div>
       <div className="text-center text-slate-600">
-        Questions? <Link href={""} className="text-white hover:text-link-600">Contact Me.</Link>
+        Questions? <Link href={"#"} className="text-white hover:text-link-600">Contact Me.</Link>
       </div>
       <div className="grid grid-cols-2 md:flex md:justify-evenly">
       <div className="my-9 text-center col">
@@ -156,12 +156,12 @@ export default function Home() {
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" target="blank_" >
+          <Link href={"#"} className="block" target="blank_" >
             CodePen
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" target="blank_" >
+          <Link href={"#"} className="block" target="blank_" >
             Slack
             </Link>
           </li>
@@ -171,7 +171,7 @@ export default function Home() {
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" target="blank_" >
+          <Link href={"#"} className="block" target="blank_" >
             Discord
             </Link>
           </li>
@@ -184,27 +184,27 @@ export default function Home() {
         </h4>
         <ul>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Liang Xi
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Mud Paper
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
              Ygbarg
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Nebula
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Paper Trail
             </Link>
           </li>
@@ -217,27 +217,27 @@ export default function Home() {
         </h4>
         <ul>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
              Hire Me
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Privacy Policy
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Blog
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Terms Of Use
             </Link>
           </li>
           <li className="my-2 font-mono font-medium">
-          <Link href={"https://"} className="block" >
+          <Link href={"#"} className="block" >
             Cookies preferences
             </Link>
           </li>
