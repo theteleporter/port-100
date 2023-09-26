@@ -246,7 +246,7 @@ export default function Home() {
         
       </div>
       <div className="flex justify-center">
-        <button onClick={hireMe} className="flex fixed bottom-4 bg-black px-4 py-2 rounded-full shadow-md shadow-slate-300">
+        <button onClick={hireMe} className="flex fixed bottom-4 bg-black px-4 py-2 rounded-full shadow-md shadow-slate-300 items-center">
         Made with <Image className="mx-2" src={"/next.svg"} alt={"Next Js Logo"} width={80} height={40} />
         </button>
       </div>
