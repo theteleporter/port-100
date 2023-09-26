@@ -3,7 +3,9 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'The Teleporter',
-  description: 'Hey, Im The Teleporter. This is my portfolio incase you wanna hire me. Haha!',
+  description: 'Hello There! And who are YOU. Based on your curiosity, you are a developer...',
+  manifest: "/manifest.json",
+  themeColor: "#000000",
 }
 
 export default function RootLayout({
